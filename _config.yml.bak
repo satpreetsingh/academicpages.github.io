@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Satpreet Singh / Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Satpreet Singh"
-description              : &description "PhD Student, UW (Seattle), AI x Computational Neuroscience"
-url                      : https://satpreetsingh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "satpreetsingh/satpreetsingh.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter tweetSatpreet
+  username               : &twitter 
 facebook:
   username               : 
   app_id                 :
