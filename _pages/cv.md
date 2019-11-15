@@ -9,25 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Electrical & Computer Engineering, University of Washington, 2021 (expected)
+* M.S. in Computer Science, Oregon State University, 2017
+* M.S. in Electrical & Computer Engineering, University of Iowa, 2010
+* B.Eng., Pune University, 2006
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2014: Data Scientist, LinkedIn.com (Mountain View, CA)
+* 2010-2013: Software Engg. in Machine Learning, Orbitz.com (Chicago, IL)
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -57,3 +53,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
