@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Satpreet Singh / Homepage"
+title                    : "Satpreet Singh - Homepage"
 title_separator          : "-"
 name                     : &name "Satpreet Singh"
-description              : &description "PhD Student, UW (Seattle), AI x Computational Neuroscience"
+description              : &description "Homepage"
 url                      : https://satpreetsingh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "satpreetsingh/satpreetsingh.github.io"
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter tweetSatpreet
+  username               : &twitter 
 facebook:
   username               : 
   app_id                 :
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Satpreet Singh"
+  avatar           : "github_io.png"
+  bio              : "PhD Student, UW (Seattle), Machine Learning, Computational Neuroscience, Biological and Artificial Intelligence"
+  location         : "Seattle"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en"
   email            : 
   uri              : 
   bitbucket        :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "satpreetsingh"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/satpreetsingh/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "tweetSatpreet"
   vine             :
   weibo            :
   xing             :
