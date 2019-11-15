@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Homepage 
+======
 Hi, my name is Satpreet. I am currently a PhD student at the University of Washington (Seattle). Prior to this, I completed an MS in Computer Science at Oregon State University and worked a data-scientist on the LinkedIn.com Data Science team, and ML/data-engineer at Orbitz.com (now Expedia). You can find me on the web via the links on the sidebar.
 
 
