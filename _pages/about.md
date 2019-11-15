@@ -1,5 +1,3 @@
-
-
 ---
 permalink: /
 title: "Homepage"
