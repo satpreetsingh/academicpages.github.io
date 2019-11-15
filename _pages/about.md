@@ -1,4 +1,7 @@
----
+
+Hi, my name is Satpreet. I am currently a PhD student at the University of Washington (Seattle). Prior to this, I completed an MS in Computer Science at Oregon State University and worked a data-scientist on the LinkedIn.com Data Science team, and ML/data-engineer at Orbitz.com (now Expedia). You can find me on the web via the links on the sidebar.
+
+<!-- ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -48,3 +51,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
