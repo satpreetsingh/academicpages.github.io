@@ -10,7 +10,7 @@ redirect_from:
 
 Hello world! My name is Satpreet. I am currently a PhD student at the University of Washington (Seattle). Prior to this, I completed an MS in Computer Science at Oregon State University and worked a data-scientist on the LinkedIn.com Data Science team, and ML/data-engineer at Orbitz.com (now Expedia). You can find me on the web via the links on the sidebar.
 
-#### Some links : 
+## Some links : 
 * [Plot all the distributions!](https://github.com/rasmusab/distribution_diagrams/blob/master/all_dists.png)
 * [SciDraw.io - Open/Free scientific artwork](https://scidraw.io)
 * [Lightboards - a twitter thread](https://twitter.com/tweetsatpreet/status/1302414554782076928)
