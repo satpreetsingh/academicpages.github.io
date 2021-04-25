@@ -29,7 +29,7 @@ A recent paper:
 * [Probability distributions 🗻](https://github.com/rasmusab/distribution_diagrams)
 * [SciDraw.io scientific artwork 🐞](https://scidraw.io)
 * [Lightboards 💡](https://twitter.com/tweetsatpreet/status/1302414554782076928)
-
+* [Digital Antidepressant 🐶🐱](https://www.reddit.com/r/aww/)
 
 
 
