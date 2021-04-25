@@ -1,0 +1,45 @@
+baseURL = "http://satpreetsingh.github.io/"
+languageCode = "en-us"
+title = "Satpreet H. Singh"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = true          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = "GTM-TZ6DFVX"  # add your tracking id
+
+[params]
+  author = "Satpreet H. Singh"
+  description = "Satpreet's Homepage"
+  [params.footer]
+    text = "Hugo : Researcher"
+    url = "https://github.com/ojroques/hugo-researcher"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "850px"
+    avatarSize = "120px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Scholar"
+    url = "https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en"
+  [[menu.main]]
+    name = "ORCID"
+    url = "https://orcid.org/0000-0003-1867-4401"
+  [[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/satpreetsingh"
+  [[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/satpreetsingh"
+  [[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/tweetsatpreet"
+    
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
