@@ -1,0 +1,13 @@
+https://gohugo.io/getting-started/quick-start/
+
+# Start the Hugo server with drafts enabled:
+# In generator/
+hugo server -D
+
+http://localhost:1313
+
+# Build
+hugo -D
+
+# Copy and push
+
