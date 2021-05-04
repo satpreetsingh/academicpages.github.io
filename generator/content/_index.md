@@ -2,27 +2,28 @@
 title = "Satpreet H. Singh"
 +++
 
-## About
+## About/Bio
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
 
-Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working with [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
+Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working at the intersection of ML/RL and Computational Neuroscience.
+* More information can be found on the [Research](/research) page.
+* Publications available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en).
+* [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
 
 
-More information can be found on the [Research](/research) page.
-
-Publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en) page.
-
-
-
-Prior to my PhD, I completed an MS in Computer Science at [Oregon State University](https://eecs.oregonstate.edu), and an MS in Electrical & Computer Engineering at the [University of Iowa](https://ece.engineering.uiowa.edu), and worked in industry for a few years:
+Prior to this, I earned an MS in Computer Science at [Oregon State University](https://eecs.oregonstate.edu), and an MS in Electrical & Computer Engineering at the [University of Iowa](https://ece.engineering.uiowa.edu), and also worked in industry for \~5 years:
 * Data Scientist on the [LinkedIn.com Data Science team](https://engineering.linkedin.com/teams/data) 
 * ML/Data Engineer and Product Manager at [Orbitz.com (now Expedia)](https://www.wired.com/2014/02/orbitz-labs/)
-* Design Engineer at [Texas Instruments](https://www.ti.com) 
+* (Chip) Design Engineer at [Texas Instruments](https://www.ti.com) 
 * Robotics Intern at [Systemantics](http://www.systemantics.com)
 
-
-
+I can be found elsewhere on the web at
+* [LinkedIn](https://www.linkedin.com/in/satpreetsingh)
+* [Twitter](https://twitter.com/tweetsatpreet)
+* [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
+* [GitHub](https://github.com/satpreetsingh)
+* [ORCID](https://orcid.org/0000-0003-1867-4401)
 
 
 ## Random Links

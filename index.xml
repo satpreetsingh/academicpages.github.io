@@ -17,23 +17,15 @@
     </item>
     
     <item>
-      <title></title>
-      <link>http://satpreetsingh.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://satpreetsingh.github.io/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Research</title>
       <link>http://satpreetsingh.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://satpreetsingh.github.io/research/</guid>
-      <description>Research Interests: Intelligent Agents &amp;amp; Reinforcement Learning, Machine Learning &amp;amp; Data Science, Theoretical &amp;amp; Statistical Neuroscience, Recurrent Neural Networks &amp;amp; Dynamical Systems
-PhD I focused on During my PhD at the University of Washington (Seattle), working with Bingni W Brunton (UW Neurobiology) and Rajesh PN Rao (UW Computer Science). Univ. of Washington
-Understanding biological plume tracking behavior using deep reinforcement-learning Abstract: The ability to track odor plumes in dynamic environments is critical for flying insects following attractive odors to localize food or mates.</description>
+      <description>On the job market for a Neural-network/RL/Neuro-theory Postdoc OR Research Scientist position
+Resume/CV
+Research Current interests:
+ Intelligent Agents &amp;amp; Reinforcement Learning Recurrent Neural Networks &amp;amp; Dynamical Systems Machine Learning &amp;amp; Data Science Algorithms Theoretical &amp;amp; Statistical Neuroscience  PhD (2017 - 2021/expected)  PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. Working with Bingni W Brunton (UW Neurobiology) and Rajesh PN Rao (UW Computer Science).</description>
     </item>
     
   </channel>

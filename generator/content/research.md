@@ -2,12 +2,21 @@
 title = "Research"
 +++
 
+__On the job market for a Neural-network/RL/Neuro-theory Postdoc OR Research Scientist position__
+
+[Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
+
 ## Research
 
-Interests: Intelligent Agents & Reinforcement Learning, Machine Learning & Data Science, Theoretical & Statistical Neuroscience, Recurrent Neural Networks & Dynamical Systems
+Current interests: 
+* Intelligent Agents & Reinforcement Learning
+* Recurrent Neural Networks & Dynamical Systems
+* Machine Learning & Data Science Algorithms
+* Theoretical & Statistical Neuroscience 
 
-### PhD 
-I focused on  During my PhD at the University of Washington (Seattle), working with Bingni W Brunton (UW Neurobiology) and Rajesh PN Rao (UW Computer Science). Univ. of Washington 
+### PhD (2017 - 2021/expected)
+* PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. 
+* Working with [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
 
 #### Understanding biological plume tracking behavior using deep reinforcement-learning
 
@@ -25,7 +34,7 @@ Abstract: Recent technological advances in brain recording and artificial intell
 
 [Singh et al, 2021 (Journal of Neuroscience Methods)](https://www.sciencedirect.com/science/article/pii/S0165027021001345)
 
-[Code, data and preprint](https://github.com/BruntonUWBio/mining2021) 
+[Code, data, preprint and additional videos](https://github.com/BruntonUWBio/mining2021) 
 
 [#tweeprint](https://twitter.com/tweetsatpreet/status/1276201158575452160) on this paper:  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our new preprint titled “Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings” is now online: <a href="https://t.co/46FsBMFnV1">https://t.co/46FsBMFnV1</a><br>Joint work with <a href="https://twitter.com/stevenmpeterson?ref_src=twsrc%5Etfw">@stevenmpeterson</a>, <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> &amp; <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a> <br>1/4 <a href="https://t.co/6360Dw8TMs">pic.twitter.com/6360Dw8TMs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1276201158575452160?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
