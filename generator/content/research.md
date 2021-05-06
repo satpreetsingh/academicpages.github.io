@@ -9,10 +9,11 @@ __On the job market for a Neural-network/RL/Neuro-theory Postdoc OR Research Sci
 ## Research
 
 Current interests: 
-* Intelligent Agents & Reinforcement Learning
+* Intelligent Agents, Games & Reinforcement Learning
 * Recurrent Neural Networks & Dynamical Systems
 * Machine Learning & Data Science Algorithms
-* Theoretical & Statistical Neuroscience 
+* Theoretical & Statistical Neuroscience
+* Self-organization and Brain/Biology/Nature inspired algorithms
 
 ### PhD (2017 - 2021/expected)
 * PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. 

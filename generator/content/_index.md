@@ -11,7 +11,6 @@ Welcome to my homepage! I am currently a PhD candidate at the University of Wash
 * Publications available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en).
 * [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
 
-
 Prior to this, I earned an MS in Computer Science at [Oregon State University](https://eecs.oregonstate.edu), and an MS in Electrical & Computer Engineering at the [University of Iowa](https://ece.engineering.uiowa.edu), and also worked in industry for \~5 years:
 * Data Scientist on the [LinkedIn.com Data Science team](https://engineering.linkedin.com/teams/data) 
 * ML/Data Engineer and Product Manager at [Orbitz.com (now Expedia)](https://www.wired.com/2014/02/orbitz-labs/)
@@ -19,11 +18,13 @@ Prior to this, I earned an MS in Computer Science at [Oregon State University](h
 * Robotics Intern at [Systemantics](http://www.systemantics.com)
 
 I can be found elsewhere on the web at
+* Email: satpreetsingh [@] gmail [.] com OR satsingh [@] uw [.] edu
 * [LinkedIn](https://www.linkedin.com/in/satpreetsingh)
 * [Twitter](https://twitter.com/tweetsatpreet)
 * [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en)
 * [GitHub](https://github.com/satpreetsingh)
 * [ORCID](https://orcid.org/0000-0003-1867-4401)
+
 
 
 ## Random Links
