@@ -2,7 +2,7 @@
 title = "Research"
 +++
 
-__On the job market for a Neural-network/RL/Neuro-theory Postdoc OR Research Scientist position__
+_Summer 2021: I'm on the market for RL/Agents/Equilibria, Neural-Network theory/Neuro-theory postdocs and Research Scientist/Engineer roles_
 
 [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
 
@@ -23,9 +23,18 @@ Current interests:
 
 Abstract: The ability to track odor plumes in dynamic environments is critical for flying insects following attractive odors to localize food or mates. This remarkable tracking behavior requires multimodal integration of odor, vision, and wind sensing, is robust to variations in plume statistics and wind speeds, and can often be performed over large distances. Therefore, it is challenging to study in confined experimental settings. Here we describe ongoing work to explore the space of policies effective to accomplish plume tracking, leveraging the reproducibility and interpretability of artificial agents trained in biologically motivated simulations. Specifically, we trained neural-network (NN) agents with deep reinforcement learning to locate the source of a patchy simulated plume, while varying their capacity to store past sensory stimuli. We analyzed the behavior of trained agents by inspecting successful trajectories. We then interrogated the input-output maps learned by the NNs, uncovering interpretable differences in control strategies introduced by varying sensory memory. We believe that our simulation-based approach can generate novel testable hypotheses to guide the development of targeted neuroethological experiments, as well as provide a pathway towards a mechanistic understanding of the key multimodal computations required for plume tracking.
 
+![Constant Wind Plume Tracking](/oldparams-cropped.gif)
+
+
 [Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465)
 
 (Full paper in preparation)
+
+#### Non-Negative Matrix Factorization Game
+
+Abstract: We present a novel game-theoretic formulation of Non-Negative Matrix Factorization (NNMF), a popular data-analysis method with many scientific and engineering applications. The game-theoretic formulation is shown to have favorable scaling and parallelization properties, while retaining reconstruction and convergence performance comparable to the traditional Multiplicative Updates algorithm.
+
+[Singh et al, 2021 (Unrefereed Preprint/Extended Project Report)](https://arxiv.org/abs/2104.05069)
 
 #### Mining naturalistic human behaviors in long-term video and neural recordings
 
