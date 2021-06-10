@@ -10,7 +10,7 @@ _Summer 2021: I'm on the market for RL/Agents/Equilibria, Neural-Network theory/
 
 Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working at the intersection of ML/RL and Computational Neuroscience.
 * More information can be found on the [Research](/research) page.
-* Publications available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en).
+* Publications & Patents available on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en).
 * [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
 
 Prior to this, I earned an MS in Computer Science at [Oregon State University](https://eecs.oregonstate.edu), and an MS in Electrical & Computer Engineering at the [University of Iowa](https://ece.engineering.uiowa.edu), and also worked in industry for \~5 years:

@@ -11,9 +11,9 @@ _Summer 2021: I'm on the market for RL/Agents/Equilibria, Neural-Network theory/
 Current interests: 
 * Intelligent Agents, Games & Reinforcement Learning
 * Recurrent Neural Networks & Dynamical Systems
-* Machine Learning & Data Science Algorithms
-* Theoretical & Statistical Neuroscience
-* Self-organization and Brain/Biology/Nature inspired algorithms
+* Self-organization and brain/biology/nature inspired algorithms
+* Optimization, Control & Learning (esp. inverse problems)
+* Theoretical & Statistical Neuroscience 
 
 ### PhD (2017 - 2021/expected)
 * PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. 
@@ -26,7 +26,11 @@ Abstract: The ability to track odor plumes in dynamic environments is critical f
 ![Constant Wind Plume Tracking](/oldparams-cropped.gif)
 
 
-[Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465)
+[Singh et al, 2020 (ALIFE Conference 2020 Abstract)](https://direct.mit.edu/isal/proceedings/isal2020/32/750/98465) 
+
+Also presented at:
+* [NAISys 2020](https://meetings.cshl.edu/abstracts.aspx?meet=naisys&year=20) 
+* [IROS 2020 Robot inspired Biology Workshop](http://gravishlab.ucsd.edu/iros2020/)
 
 (Full paper in preparation)
 
@@ -42,9 +46,12 @@ Abstract: Recent technological advances in brain recording and artificial intell
 
 ![Right Wrist](https://raw.githubusercontent.com/BruntonUWBio/mining2021/master/right_only_1x4_boomerang.gif)
 
-[Singh et al, 2021 (Journal of Neuroscience Methods)](https://www.sciencedirect.com/science/article/pii/S0165027021001345)
+[Singh et al (Journal of Neuroscience Methods, Apr 2021)](https://www.sciencedirect.com/science/article/pii/S0165027021001345)
+([Preprint](https://arxiv.org/abs/2001.08349)) ([Code, data & more videos](https://github.com/BruntonUWBio/mining2021)) 
 
-[Code, data, preprint and additional videos](https://github.com/BruntonUWBio/mining2021) 
+This paper's data generating pipeline and dataset were the foundation for additional papers:
+* [Peterson, SP and Singh, SH, et al (eNeuro, May 2021)](https://www.eneuro.org/content/early/2021/05/21/ENEURO.0007-21.2021.abstract) (Joint 1st authorship)
+* [Peterson et al (Journal of Neural Engineering, March 2021)](https://iopscience.iop.org/article/10.1088/1741-2552/abda0b/meta) (Not a co-author; only contributed data)
 
 [#tweeprint](https://twitter.com/tweetsatpreet/status/1276201158575452160) on this paper:  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our new preprint titled “Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings” is now online: <a href="https://t.co/46FsBMFnV1">https://t.co/46FsBMFnV1</a><br>Joint work with <a href="https://twitter.com/stevenmpeterson?ref_src=twsrc%5Etfw">@stevenmpeterson</a>, <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> &amp; <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a> <br>1/4 <a href="https://t.co/6360Dw8TMs">pic.twitter.com/6360Dw8TMs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1276201158575452160?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -54,3 +61,6 @@ Abstract: Recent technological advances in brain recording and artificial intell
 * [Cerenkov: Computational elucidation of the regulatory noncoding variome, ](https://par.nsf.gov/biblio/10049769) at the 8th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics (2017)
 * [Visualization and Analysis of Sensor Data for Detecting Microclimate Cold Air Pools](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/k0698d22b) Oregon State University MS Thesis (2017) 
 * [Hydro-NEXRAD-2: real-time access to customized radar-rainfall for hydrologic applications](https://iwaponline.com/jh/article/15/2/580/3447/Hydro-NEXRAD-2-real-time-access-to-customized) Journal of Hydroinformatics (2013)
+
+### Industry
+* List of patents applied and granted can be found on [Google Scholar](https://scholar.google.com/citations?user=S6wyhngAAAAJ&hl=en). 
