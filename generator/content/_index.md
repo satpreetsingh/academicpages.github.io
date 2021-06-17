@@ -6,7 +6,7 @@ title = "Satpreet H. Singh"
 
 {{< figure class="avatar" src="/profile.png" alt="avatar">}}
 
-_Summer 2021: I'm on the market for RL/Agents/Equilibria, Neural-Network theory/Neuro-theory postdocs and Research Scientist/Engineer roles_
+_Summer/Fall 2021: I'm on the job market for agents/RL and/or neural-network algorithms/theory related postdocs and full-time research roles_
 
 Welcome to my homepage! I am currently a PhD candidate at the University of Washington (Seattle), working at the intersection of ML/RL and Computational Neuroscience.
 * More information can be found on the [Research](/research) page.

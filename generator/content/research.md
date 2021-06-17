@@ -2,24 +2,24 @@
 title = "Research"
 +++
 
-_Summer 2021: I'm on the market for RL/Agents/Equilibria, Neural-Network theory/Neuro-theory postdocs and Research Scientist/Engineer roles_
+_Summer/Fall 2021: I'm on the job market for agents/RL and/or neural-network algorithms/theory related postdocs and full-time research roles_
 
 [Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
 
 ## Research
 
 Current interests: 
-* Intelligent Agents, Games & Reinforcement Learning
+* Agents, Games & Reinforcement Learning
 * Recurrent Neural Networks & Dynamical Systems
+* Inverse problems in Learning & Control
 * Self-organization and brain/biology/nature inspired algorithms
-* Optimization, Control & Learning (esp. inverse problems)
-* Theoretical & Statistical Neuroscience 
+* Statistical Neuroscience 
 
 ### PhD (2017 - 2021/expected)
 * PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. 
 * Working with [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
 
-#### Understanding biological plume tracking behavior using deep reinforcement-learning
+#### Understanding biological plume tracking behavior using deep reinforcement-learning (Ongoing)
 
 Abstract: The ability to track odor plumes in dynamic environments is critical for flying insects following attractive odors to localize food or mates. This remarkable tracking behavior requires multimodal integration of odor, vision, and wind sensing, is robust to variations in plume statistics and wind speeds, and can often be performed over large distances. Therefore, it is challenging to study in confined experimental settings. Here we describe ongoing work to explore the space of policies effective to accomplish plume tracking, leveraging the reproducibility and interpretability of artificial agents trained in biologically motivated simulations. Specifically, we trained neural-network (NN) agents with deep reinforcement learning to locate the source of a patchy simulated plume, while varying their capacity to store past sensory stimuli. We analyzed the behavior of trained agents by inspecting successful trajectories. We then interrogated the input-output maps learned by the NNs, uncovering interpretable differences in control strategies introduced by varying sensory memory. We believe that our simulation-based approach can generate novel testable hypotheses to guide the development of targeted neuroethological experiments, as well as provide a pathway towards a mechanistic understanding of the key multimodal computations required for plume tracking.
 
@@ -34,11 +34,6 @@ Also presented at:
 
 (Full paper in preparation)
 
-#### Non-Negative Matrix Factorization Game
-
-Abstract: We present a novel game-theoretic formulation of Non-Negative Matrix Factorization (NNMF), a popular data-analysis method with many scientific and engineering applications. The game-theoretic formulation is shown to have favorable scaling and parallelization properties, while retaining reconstruction and convergence performance comparable to the traditional Multiplicative Updates algorithm.
-
-[Singh et al, 2021 (Unrefereed Preprint/Extended Project Report)](https://arxiv.org/abs/2104.05069)
 
 #### Mining naturalistic human behaviors in long-term video and neural recordings
 
@@ -55,6 +50,13 @@ This paper's data generating pipeline and dataset were the foundation for additi
 
 [#tweeprint](https://twitter.com/tweetsatpreet/status/1276201158575452160) on this paper:  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our new preprint titled “Investigating naturalistic hand movements by behavior mining in long-term video and neural recordings” is now online: <a href="https://t.co/46FsBMFnV1">https://t.co/46FsBMFnV1</a><br>Joint work with <a href="https://twitter.com/stevenmpeterson?ref_src=twsrc%5Etfw">@stevenmpeterson</a>, <a href="https://twitter.com/RajeshPNRao?ref_src=twsrc%5Etfw">@RajeshPNRao</a> &amp; <a href="https://twitter.com/bingbrunton?ref_src=twsrc%5Etfw">@bingbrunton</a> <br>1/4 <a href="https://t.co/6360Dw8TMs">pic.twitter.com/6360Dw8TMs</a></p>&mdash; Satpreet Singh (@tweetsatpreet) <a href="https://twitter.com/tweetsatpreet/status/1276201158575452160?ref_src=twsrc%5Etfw">June 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### Non-Negative Matrix Factorization Game
+
+Abstract: We present a novel game-theoretic formulation of Non-Negative Matrix Factorization (NNMF), a popular data-analysis method with many scientific and engineering applications. The game-theoretic formulation is shown to have favorable scaling and parallelization properties, while retaining reconstruction and convergence performance comparable to the traditional Multiplicative Updates algorithm.
+
+[Unrefereed Preprint/Extended Project Report](https://arxiv.org/abs/2104.05069)
+
 
 ### Before PhD 
 
