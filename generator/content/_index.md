@@ -31,11 +31,12 @@ I can be found elsewhere on the web at
 
 
 ### Random Links
+* [ML/AI deadlines ⏰](https://aideadlin.es/?sub=ML)
 * [My UW themed beamer poster template](https://github.com/satpreetsingh/UWBeamerPosterTemplate)
 * [Probability distributions 🗻](https://github.com/rasmusab/distribution_diagrams)
 * [SciDraw.io scientific artwork 🐞](https://scidraw.io)
 * [Lightboards 💡](https://twitter.com/tweetsatpreet/status/1302414554782076928)
-* [Digital antidepressant 🐶🐱](https://www.reddit.com/r/aww/)
+* [r/aww 🐶🐱](https://www.reddit.com/r/aww/)
 
 
 
