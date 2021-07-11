@@ -13,7 +13,7 @@ hugo -D
 \cp -r public/* ../
 rm -rf public
 git add .
-git commit -m "message"
+git commit -m "$(date +%Y-%m-%d)"
 git push origin master
  
 # TODO
