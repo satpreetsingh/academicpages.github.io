@@ -2,19 +2,18 @@
 title = "Research"
 +++
 
-_Summer/Fall 2021: I'm on the job market for agents/RL and/or neural-network algorithms/theory related postdocs and full-time research roles_
-
-[Resume/CV](https://drive.google.com/file/d/1qBMdnRe6wU1r--T23ZO2_i-TodvLnfe5/view?usp=sharing)
+_Summer/Fall 2021: I'm on the job market for algorithms/methods/theory related postdocs and full-time research roles_ 
+[(Resume/CV)](https://drive.google.com/file/d/10htJNeyPrewHVEymIfwwnPHj9m69EXCt/view?usp=sharing)
 
 ## Research
-
+<!-- 
 Current interests: 
 * Agents, Games & Reinforcement Learning
 * Recurrent Neural Networks & Dynamical Systems
 * Inverse problems in Learning & Control
 * Self-organization and brain/biology/nature inspired algorithms
 * Statistical Neuroscience 
-
+ -->
 ### PhD (2017 - 2021/expected)
 * PhD at the University of Washington (Seattle), at the intersection of ML/RL and Computational Neuroscience. 
 * Working with [Bingni W Brunton (UW Neurobiology)](https://www.biology.washington.edu/people/profile/bing-w-brunton) and [Rajesh PN Rao (UW Computer Science)](https://www.cs.washington.edu/people/faculty/rao).
@@ -62,6 +61,10 @@ Abstract: We present a novel game-theoretic formulation of Non-Negative Matrix F
 
 * [Cerenkov: Computational elucidation of the regulatory noncoding variome, ](https://par.nsf.gov/biblio/10049769) at the 8th ACM International Conference on Bioinformatics, Computational Biology,and Health Informatics (2017)
 * [Visualization and Analysis of Sensor Data for Detecting Microclimate Cold Air Pools](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/k0698d22b) Oregon State University MS Thesis (2017) 
+
+Abstract: Cold air pools are spatiotemporal phenomena that occur when cold air from higher elevations roll down the slope to accumulate in lower elevations. Behaviors like this lead to microclimate anomalies such as the city of Corvallis (Oregon) experiencing persistent cold weather even on a sunny day. We analyze multivariate temperature time-series data and associated covariates from about 160 sensors from the HJ Andrews Research Forest (Oregon) through visualization and modeling to study this phenomenon. We develop detectors to localize cold air pools in both time and space, and carry out simulation studies to assess their performance under different microclimatic and sensor-performance conditions.
+![Nonlinear dashboard](https://github.com/satpreetsingh/osu-cap/raw/master/animations/gpInflectionLapseAnimation_2011-12-12.fullday.gif)
+
 * [Hydro-NEXRAD-2: real-time access to customized radar-rainfall for hydrologic applications](https://iwaponline.com/jh/article/15/2/580/3447/Hydro-NEXRAD-2-real-time-access-to-customized) Journal of Hydroinformatics (2013)
 
 ### Industry
